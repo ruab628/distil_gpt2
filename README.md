@@ -1,3 +1,3 @@
 # LLM-finetuning
 
-Finetuning LLMs using huggingface models with QLoRA and DPO.
+Finetuning LLMs using huggingface models with QLoRA.
